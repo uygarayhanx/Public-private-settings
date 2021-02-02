@@ -9,6 +9,29 @@ Codes:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <?php
     private $id = 1;
     private $name = "Uygar";
