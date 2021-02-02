@@ -3,6 +3,12 @@ A public-private data settings with PHP
 Codes:
 
 
+
+
+
+
+
+
 <?php
     private $id = 1;
     private $name = "Uygar";
